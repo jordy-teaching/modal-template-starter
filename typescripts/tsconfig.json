@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "../public/your-modal-library-name/javascripts",
+    "target": "ESNext",
+    "lib": [
+      "ESNext",
+      "DOM"
+    ]
+  }
+}
